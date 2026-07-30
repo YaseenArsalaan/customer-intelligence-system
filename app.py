@@ -10,7 +10,7 @@ st.set_page_config(page_title="🧠 YAXΞ Customer Intelligence", layout="wide")
 # =========================
 # TITLE
 # =========================
-st.title("YAXΞ Customer Intelligence")
+st.title("🧠 YAXΞ Customer Intelligence")
 
 # =========================
 # LOAD DATA
