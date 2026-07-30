@@ -1,34 +1,75 @@
-# 🧠YAXE Customer Intelligence
+# 🧠 YAXΞ Customer Intelligence
 
-An end-to-end Machine Learning application that segments customers into actionable business personas using KMeans clustering.
+An end-to-end Machine Learning application that segments customers into meaningful business personas using **K-Means Clustering**. Built to help businesses understand customer behavior, optimize marketing strategies, and make data-driven decisions through an interactive analytics dashboard.
+
+---
 
 ## 🚀 Features
-- Customer segmentation using KMeans clustering
-- Elbow Method for optimal cluster selection
-- Interactive dashboard using Streamlit & Plotly
-- Business insights and customer personas
-- Downloadable results
 
-## 📊 Tech Stack
+- 📊 Customer segmentation using K-Means Clustering
+- 📈 Elbow Method for optimal cluster selection
+- 🎯 Automated customer personas and business insights
+- 📉 Interactive visualizations with Plotly
+- ⚡ Real-time analytics dashboard using Streamlit
+- 📥 Download clustered customer data as CSV
+
+---
+
+## 📊 Technology Stack
+
 - Python
-- Pandas, NumPy
+- Pandas
+- NumPy
 - Scikit-learn
 - Streamlit
 - Plotly
 
-## 🔗 Live App
-https://your-app-link.streamlit.app
+---
 
-## 📂 GitHub Repo
-https://github.com/YaseenArsalaan/customer-intelligence-system
+## 🌐 Live Demo
 
-## 💡 Business Value
-Transforms raw customer data into actionable insights:
-- Identify high-value customers
-- Detect at-risk segments
-- Improve marketing strategies
+**Application:**  
+https://customer-intelligence-system-mz5jb8zdasmip4htyfryno.streamlit.app/
 
 ---
 
-## 👨‍💻 Author
+## 💻 GitHub Repository
+
+https://github.com/YaseenArsalaan/customer-intelligence-system
+
+---
+
+## 💼 Business Value
+
+This application enables businesses to:
+
+- 🎯 Identify high-value customer segments
+- 💰 Improve marketing effectiveness
+- 📈 Understand customer spending behavior
+- 🤝 Develop targeted retention strategies
+- 📊 Support data-driven business decisions
+
+---
+
+## 📸 Application Preview
+
+> Screenshots of the dashboard will be added here.
+
+---
+
+## 👨‍💻 Developed By
+
 **Yaseen Arsalaan**
+
+Founder & Lead Data Scientist  
+**YAXΞ Technologies**
+
+🌐 https://yaxe.app
+
+---
+
+## 📄 License
+
+This project is intended for educational and portfolio purposes.
+
+© YAXΞ Technologies. All rights reserved.
