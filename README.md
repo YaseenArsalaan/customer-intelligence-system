@@ -1,4 +1,4 @@
-# 🧠 Customer Intelligence System
+# 🧠YAXE Customer Intelligence
 
 An end-to-end Machine Learning application that segments customers into actionable business personas using KMeans clustering.
 
